@@ -48,12 +48,14 @@ The system allows organizing and displaying movies and series, including informa
    cd integrative-project
    ```
 
-2. Compile the code:
+2. Make sure to update the video file paths before running the program.
+
+3. Compile the code:
   ```bash
   g++ main.cpp -o streaming.exe
 ```
 
-3. Compile the code:
+4. Compile the code:
 
   Run the program:
   ```bash
