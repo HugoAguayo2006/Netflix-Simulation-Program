@@ -46,12 +46,16 @@ The system allows organizing and displaying movies and series, including informa
    ```bash
    git clone https://github.com/username/integrative-project.git
    cd integrative-project
+   ```
 
 2. Compile the code:
   ```bash
   g++ main.cpp -o streaming.exe
+```
 
 3. Compile the code:
+
   Run the program:
-  
+  ```bash
   ./streaming.exe
+```
