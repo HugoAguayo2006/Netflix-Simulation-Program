@@ -1,4 +1,4 @@
-# 🎬 Integrative Project - Streaming System in C++
+# 🎬 Netflix Simulation Program in C++
 
 This project implements a **streaming service model** in C++ using **Object-Oriented Programming (OOP)**.  
 The system allows organizing and displaying movies and series, including information such as title, duration, genre, and average ratings. It also supports series with episodes and seasons.
@@ -46,3 +46,12 @@ The system allows organizing and displaying movies and series, including informa
    ```bash
    git clone https://github.com/username/integrative-project.git
    cd integrative-project
+
+2. Compile the code:
+  ```bash
+  g++ main.cpp -o streaming.exe
+
+3. Compile the code:
+  Run the program:
+  
+  ./streaming.exe
